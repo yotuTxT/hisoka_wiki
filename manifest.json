@@ -1,0 +1,15 @@
+{
+  "name": "hisoka_wiki",
+  "action": {},
+  "manifest_version": 3,
+  "version": "0.1",
+  "description": "wikiを、読むよ...♠",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [{
+    "matches": ["https://ja.wikipedia.org/*"],
+    "js": ["script.js"]
+  }]
+}
