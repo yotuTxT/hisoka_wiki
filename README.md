@@ -1,0 +1,3 @@
+# hisoka_wiki
+wikipediaが読みづらいので、ヒソカに読んでもらいました
+chromeおよびEdgeの拡張機能を作る練習です
